@@ -17,6 +17,7 @@ import com.wakaleo.gameoflife.domain.Universe;
  *
  * GameController.java
  * Controller to navigate the buttons on the game pages
+ * Checking if it works testing
  */
 @Controller
 @RequestMapping("/game")
